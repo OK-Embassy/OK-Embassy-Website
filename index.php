@@ -40,7 +40,8 @@ if (!empty($_POST)){
 							<li><a href="#three">Get in touch</a></li>
 							<li><a href="buy">Trade</a></li>
 							<li><a href="http://okcash.co/faq.html" target="_blank">OKCash FAQ</a></li>
-						</ul>
+						        <li><a href="http://okcash.co/collaborators.html">OK collaborators<\a><\li>						
+</ul>
 					</nav>
 				</div>
 			</section>
