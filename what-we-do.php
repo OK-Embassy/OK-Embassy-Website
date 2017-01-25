@@ -27,7 +27,7 @@
 						<li><a href="projects">Projects</a></li>
 						<li><a href="buy">Trade</a></li>
 						<li><a href="http://okcash.co/faq.html" target="_blank">OKCash FAQ</a></li>
-					        <li><a href="http://okcash.co/collaborators.html">OK collaborators</a></li>					
+					        <li><a href="http://okcash.co/collaborators.html" target="_blank">OK collaborators</a></li>					
                                         </ul>
 				</nav>
 			</header>
