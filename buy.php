@@ -28,9 +28,9 @@
 						<li><a href="what-we-do">What we do</a></li>
 						<li><a href="projects">Projects</a></li>
 						<li><a href="sell"  class="active">Trade</a></li>
-						<li><a href="http://okcash.co/faq.html" target="_blank">OKCash FAQ</a></li>
-					        <li><a href="http://okcash.co/collaborators.html" target="_blank">OK collaborators</a></li>					
-                                        </ul>
+						<li><a href="https://okcash.info/faq.html" target="_blank">OKCash FAQ</a></li>
+						<li><a href="https://okcash.info/collaborators.html" target="_blank">OK collaborators</a></li>
+					</ul>
 				</nav>
 			</header>
 
@@ -64,7 +64,7 @@
 								<section>
 									<ul class="contact">
 										<li>
-											<h3>1000 OK</h3>
+											<h3>100 OK</h3>
 											<span id="1000OK"></span>
 										</li>
 									</ul>
@@ -77,16 +77,7 @@
 								<footer id="footer" class="wrapper alt">
 									<div class="inner">
 										<ul class="menu">
-											<li>	
-											<!-- PayPal credit/debit payments -->
-												
-											<!-- End of PayPal section -->	
-											</li>
-											<li>
-											<!-- Stripe credit/debit payments -->
 											
-											<!-- End of Stripe section -->
-											</li>
 										</ul>
 									</div>
 								</footer>
@@ -100,9 +91,6 @@
 			<script src="assets/js/main.js"></script>
 			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 			<script src="assets/js/buycadpricing.js"></script>
-<!--
-			//<script src="assets/js/buyusdpricing.js"></script>
-			//<script src="assets/js/buyeurpricing.js"></script>-->
 			<script type="text/javascript" src="assets/js/tawk.js"></script>
 	</body>
 </html>
